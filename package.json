@@ -1,0 +1,11 @@
+{
+  "name": "languesser",
+  "version": "1.0.0",
+  "description": "A test project for the CS web dev bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Palant-dev",
+  "license": "MIT"
+}
